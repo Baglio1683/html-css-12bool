@@ -39,8 +39,8 @@
     flex: 0 0 auto;
 
     /* debug */
-    background-color: rgb(0, 153, 255);
-    border: 1px solid white;
+    /* background-color: rgb(0, 153, 255); */
+    /* border: 1px solid white; */
     padding: 1em;
     text-align: center;
     color: white;
@@ -184,5 +184,5 @@
 }
 
 .min-h-50{
-    min-height: 50px;
+    min-height: 65px;
 }

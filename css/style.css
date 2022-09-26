@@ -1,0 +1,31 @@
+.back-black{
+    background-color: black;
+}
+
+.back-yellow{
+    background-color: rgb(241, 241, 15);
+}
+
+.back-orange{
+    background-color: orange;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.back-white{
+    background-color: white;
+}
+
+.rad-50{
+    border-radius: 50%;
+}
+
+.text-green{
+    color: rgb(27, 197, 21);
+}
+
+.xxx-large{
+    font-size: xxx-large;
+}
